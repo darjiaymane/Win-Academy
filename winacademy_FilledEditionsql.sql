@@ -40,7 +40,7 @@ CREATE TABLE `college` (
 INSERT INTO `college` (`college_id`, `college_Name`, `siteinternet`) VALUES
 (1, 'Ben Tachfin', 'www.Tachfin.ma'),
 (2, 'Caddi Ayad', 'WWW.CaddiAyad_@.ma'),
-(5, 'Chinese People\'s Public Security University', 'paypal.com'),
+(5, 'Chinese People ', 'paypal.com'),
 (6, 'Gannon University', 'engadget.com'),
 (7, 'Troy University, Dothan', 'house.gov'),
 (8, 'Université de Kisangani', 'spotify.com'),
